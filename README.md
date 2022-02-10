@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**Alaskapablo/Alaskapablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+<div align="center">
+<a href="https://github.com/Alaskapablo">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alaskapablo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaskapablo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-Here are some ideas to get you started:
+  ### Olá, Sou o Pablo Barbosa👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 👨‍ ‍tenho 20 anos
+- 👨‍🎓 Estudante JavaScript
+- 🌱 Estudando atualmente NodeJS e React
+- 📫 Contate-me no email: pablobarbosa0708@gmail.com
+
+  <a href="https://github.com/Alaskapablo">
+
